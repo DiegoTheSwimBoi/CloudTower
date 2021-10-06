@@ -1,0 +1,85 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.firstSlide{
+	background: black;
+	height: 100%;
+}
+
+.item{
+   background: black;
+}
+
+
+
+
+.item img{
+	width: 90%;
+	display: grid;
+    place-items:center;
+}
+
+.content{
+	font-family:Ubuntu;
+}
+
+.section{
+    margin:	50px 60px 0 60px;
+	font-size: 24px;
+}
+
+section>h1{
+	text-align: center;
+	font-size: 72px;
+}
+
+section>p{
+	font-size: 24px;
+}
+
+section{
+	margin:	0 0 50px 0;
+}
+
+.BSIDE{
+	background: black;
+	color: white;
+}
+
+.bsideImg{
+	background: url(../img/main/secondSlide2.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 20px;	
+}
+
+
+.backDside{
+	background: black;
+	color: white;
+}
+
+.DSIDE{
+	background: url(../img/main/thirdSlide3.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+}
+
+
+
+.dsideImg{
+	padding: 50px;	
+}
+
+.contact{
+	padding: 50px 0 50px 0;	
+}
+
+
+
+
+
+

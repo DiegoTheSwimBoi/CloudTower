@@ -1,0 +1,44 @@
+.auth{
+    display:grid;
+    place-items: center;
+    width: 100%;
+    height:100%;
+	position: fixed;
+	top:-50px;
+}
+
+
+.border{
+	border: 3px solid rgb(121, 121, 121);
+	padding: 60px;
+	border-radius: 3%;
+	font-family:Century;
+	font-size: 18px;
+	box-shadow: 0 0 5px rgb(58, 58, 58);
+}
+
+
+#btnAuth{
+	border: none;
+	padding: 5px;
+	font-size: 18px;
+}
+
+.inputs{
+	display: flex;
+	flex-direction: column;
+	justify-content: wrap;
+	gap: 8px;
+}
+
+#img{
+position: relative;
+left: 100px;	
+}
+
+
+input{
+	font-size: 18px;
+	border: none;
+	border-bottom: 2px solid rgb(209, 209, 209);
+}

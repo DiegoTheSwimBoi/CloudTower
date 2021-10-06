@@ -1,0 +1,17 @@
+:root[data-theme='dark']{
+	background: #08091d;
+	color: white;
+}
+
+
+
+:any-link[data-theme='dark']{
+text-decoration:none;
+font-size: 120%;
+color: white;
+transition: all 0.5s ease-out;
+}
+
+:root{
+	transition: all 0.5s ease-out;
+}

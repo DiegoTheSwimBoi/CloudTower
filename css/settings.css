@@ -1,0 +1,18 @@
+.usercontent{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+
+.usersection{
+    margin:	70px 60px 150px 140px;
+	font-family:Ubuntu;
+	font-size: 24px;
+}
+
+.yourAccount{
+	font-family:Ubuntu;
+	font-size: 24px;
+	margin-top: 160px;
+}
